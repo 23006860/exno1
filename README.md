@@ -1,5 +1,5 @@
-NAME: Rahul v
-REG NO: 212223240133
+# NAME: Rahul V
+# REG NO: 212223240133
 
 # Exno:1
 Data Cleaning Process
